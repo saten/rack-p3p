@@ -26,7 +26,8 @@ module Rack
 
     # returns a default policy stating that no contact information will be stored
     def self.default_policy
-	"IDC DSP COR CURa ADMa OUR IND PHY ONL COM STA"
+	"Go take it in the ass and squeeze the balls"
+#	"IDC DSP COR CURa ADMa OUR IND PHY ONL COM STA"
 #	"DC DSP COR ADM DEVi TAIi PSA PSD IVAa IVDi CONi HIS OUR IND CNT"
 #      "ALL DSP COR PSAa PSDa OUR NOR ONL UNI COM NAV"
 #      %q{NOI ADM DEV PSAi COM NAV OUR OTRo STP IND DEM}
