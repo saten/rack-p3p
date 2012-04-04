@@ -26,8 +26,8 @@ module Rack
 
     # returns a default policy stating that no contact information will be stored
     def self.default_policy
-	"CURa ADMa DEVa TAIo PSAo PSDo OUR IND UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR"
-#	"Go take it in the ass and squeeze the balls"
+#	"CURa ADMa DEVa TAIo PSAo PSDo OUR IND UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR"
+	"Non usiamo p3p. Maggiori info sulla nostra privacy policy all'indirizzo http://www.teamartist.org/privacy"
 #	"IDC DSP COR CURa ADMa OUR IND PHY ONL COM STA"
 #	"DC DSP COR ADM DEVi TAIi PSA PSD IVAa IVDi CONi HIS OUR IND CNT"
 #      "ALL DSP COR PSAa PSDa OUR NOR ONL UNI COM NAV"
